@@ -21,7 +21,7 @@ npm i
 Download or clone the repo to your machine, navigate to the command prompt and run npm i to install all the necessary packages. Once you are ready run npm start to run the application.  
 
 ## Walkthrough or Screenshot
-![Homescreen](asset/img/budget-tracker.PNG)
+![Homescreen](asset/img/budget-tracker.png)
 
 ## Credits
 Jace Burgess, Bobbi Tarkani (tutor)
