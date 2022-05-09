@@ -4,6 +4,7 @@
 ## Description
 This application will allow you to track your income and expenses on the go using indexDB to add when there is no internet connection. Once you are connected back to the internet the application will update the server. 
 
+
 ## Table of Contents
 
 - [Installation](#installation)
